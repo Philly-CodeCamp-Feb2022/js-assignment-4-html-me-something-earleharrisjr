@@ -1,0 +1,28 @@
+/* Write your CSS here! */
+#mainHeading {
+  color: red;
+  font-size: 100px;
+  border: 12px ridge green;
+}
+
+#testP {
+  display: block;
+  color: green;
+  font-size: xx-large;
+  border: 10px solid brown;
+}
+
+body {
+  text-size-adjust: 8px;
+  background-color: khaki;
+  text-align: center;
+}
+
+.moment {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px ridge green;
+  width: 500px;
+  text-align: center;
+}
